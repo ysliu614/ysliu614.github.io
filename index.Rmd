@@ -1,0 +1,46 @@
+---
+title: "Yisi Liu"
+image: "YisiLiu.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/yisi-liu-751b13191/"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=MGGltS8AAAAJ&hl=zh-CN"
+  - label: Email
+    url: "mailto:yliu297@jhu.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+I am Ph.D. student in the Department of Epidemiology at Bloomberg School of Public Health, 
+Johns Hopkins University. My research interests include environmental risk factors, 
+maternal health, and children's neurodevelopment.
+
+## Education
+
+**Johns Hopkins University** | Baltimore, United States
+
+Ph.D. in Epidemiology | August 2023 - May 2027 (Expected)
+
+MHS in Epidemiology | August 2018 - May 2020
+
+**China Pharmaceutical University** | Nanjing, China
+
+MSc in Pharmacology | September 2014 - June 2018
+
+BSc in Pharmacy | September 2010 - June 2014
+
+## Experience
+
+**Biostatistics, Epidemiology and Data Management (BEAD) Core, JHU School of Medicine** 
+
+Sr. Research Data Manager | August 2022 - June 2023
+
+Programmer Analyst | December 2020 - July 2022
+
+**Westat**
+
+Medical Records Abstractor | September 2020 - December 2020
+
